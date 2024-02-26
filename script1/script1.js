@@ -1,0 +1,15 @@
+const body = document.querySelector('body')
+
+const colores = ['IndianRed','LightCoral','Salmon','DarkSalmon','LightSalmon','Crimson','Pink','LightPink','HotPink','PaleVioletRed']
+
+for(let i=0;  i<10; i++){
+    const div = document.createElement('div')
+    div.style.height = '100px'
+    div.style.backgroundColor = colores[Math.floor(Math.random()*colores.length)]
+
+    const parrafo = document.createElement('p')
+
+    div.appendChild(parrafo)
+
+    body.appendChild(div)
+}
