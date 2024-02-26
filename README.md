@@ -1,1 +1,1 @@
-En esta carpeta tendremos tres carpetas con los trabajos pedidos y su funcion
+En esta carpeta nos encontraremos con los trabajos de topicos.
