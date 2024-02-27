@@ -1,2 +1,2 @@
-En este programa se generan 10 contenedores los cuales se pintaran aleatoriamente con una
-variedad de colores ya defiunidos en un areglo estos sin repetir ninguno
+En este programa se generan 10 contenedores los cuales se pintarán aleatoriamente con una
+variedad de colores ya definidos en un arreglo estos sin repetir ninguno
